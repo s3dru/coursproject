@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Курсач\Courseproj\Courseproj\bin\Debug\Courseproj.exe.config
+C:\Users\user\Desktop\Курсач\Courseproj\Courseproj\bin\Debug\Courseproj.exe
+C:\Users\user\Desktop\Курсач\Courseproj\Courseproj\bin\Debug\Courseproj.pdb
+C:\Users\user\Desktop\Курсач\Courseproj\Courseproj\obj\Debug\Courseproj.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Курсач\Courseproj\Courseproj\obj\Debug\Courseproj.Form1.resources
+C:\Users\user\Desktop\Курсач\Courseproj\Courseproj\obj\Debug\Courseproj.Properties.Resources.resources
+C:\Users\user\Desktop\Курсач\Courseproj\Courseproj\obj\Debug\Courseproj.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Курсач\Courseproj\Courseproj\obj\Debug\Courseproj.exe
+C:\Users\user\Desktop\Курсач\Courseproj\Courseproj\obj\Debug\Courseproj.pdb
